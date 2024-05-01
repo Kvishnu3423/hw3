@@ -1,3 +1,4 @@
+
 function search() {
     const term = document.getElementById("search-input").value.trim().toLowerCase();
     const results = document.getElementById("result-list");
